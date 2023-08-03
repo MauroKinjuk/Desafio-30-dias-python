@@ -6,7 +6,7 @@ Los siguientes proyectos fueron propuestos por una IA (ChatGPT)
 [x] Día 1: Calculadora
 Crea una calculadora básica que pueda realizar operaciones de suma, resta, multiplicación y división. Puedes implementarlo como una interfaz de consola.
 
-[ ] Día 2: Generador de Contraseñas
+[x] Día 2: Generador de Contraseñas
 Crea un programa que genere contraseñas seguras de manera aleatoria y las muestre por pantalla. Puedes usar la biblioteca random para esto.
 
 [ ] Día 3: Contador de Palabras
