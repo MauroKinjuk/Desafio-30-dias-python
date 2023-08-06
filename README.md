@@ -9,7 +9,7 @@ Crea una calculadora básica que pueda realizar operaciones de suma, resta, mult
 [x] Día 2: Generador de Contraseñas
 Crea un programa que genere contraseñas seguras de manera aleatoria y las muestre por pantalla. Puedes usar la biblioteca random para esto.
 
-[ ] Día 3: Contador de Palabras
+[x] Día 3: Contador de Palabras
 Escribe un programa que tome un texto como entrada y cuente cuántas veces aparece cada palabra. Puedes usar diccionarios para mantener el conteo.
 
 [ ] Día 4: Lista de Tareas
