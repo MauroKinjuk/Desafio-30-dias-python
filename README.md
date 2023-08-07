@@ -12,7 +12,7 @@ Crea un programa que genere contraseñas seguras de manera aleatoria y las muest
 [x] Día 3: Contador de Palabras
 Escribe un programa que tome un texto como entrada y cuente cuántas veces aparece cada palabra. Puedes usar diccionarios para mantener el conteo.
 
-[ ] Día 4: Lista de Tareas
+[x] Día 4: Lista de Tareas
 Crea una aplicación de lista de tareas donde puedas agregar, eliminar y marcar tareas como completadas. Puedes usar una estructura de datos como una lista o un archivo para almacenar las tareas.
 
 [ ] Día 5: Convertidor de Unidades

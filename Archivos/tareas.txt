@@ -1,0 +1,4 @@
+Comprar Ketchup     | Incompleta |
+Comprar Mayonesa     | Incompleta |
+Hacer la tarea del dia 4     | Completa |
+Buscar nuevo teclado     | Completa |
