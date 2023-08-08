@@ -15,7 +15,7 @@ Escribe un programa que tome un texto como entrada y cuente cuántas veces apare
 [x] Día 4: Lista de Tareas
 Crea una aplicación de lista de tareas donde puedas agregar, eliminar y marcar tareas como completadas. Puedes usar una estructura de datos como una lista o un archivo para almacenar las tareas.
 
-[ ] Día 5: Convertidor de Unidades
+[x] Día 5: Convertidor de Unidades
 Escribe un programa que convierta unidades de longitud, como metros a pies, o unidades de temperatura, como Celsius a Fahrenheit.
 
 [ ] Día 6-7: Juego de Adivinanzas
