@@ -18,7 +18,7 @@ Crea una aplicación de lista de tareas donde puedas agregar, eliminar y marcar 
 [x] Día 5: Convertidor de Unidades
 Escribe un programa que convierta unidades de longitud, como metros a pies, o unidades de temperatura, como Celsius a Fahrenheit.
 
-[ ] Día 6-7: Juego de Adivinanzas
+[x] Día 6-7: Juego de Adivinanzas
 Desarrolla un juego donde el programa elige un número aleatorio y el usuario debe adivinarlo. Proporciona pistas para guiar al usuario hacia la respuesta correcta.
 
 [ ] Día 8: Generador de Tarjetas de Cumpleaños
